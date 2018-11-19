@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Page Title</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="../css/main_sol.css" />
+    
+</head>
+<body >
+  <container id="A">
+ 
+    <fieldset id="one">
+     <label id="one_1">Combined Breakdown</label>
+    </fieldset>
+     <br/>
+     <fieldset id="two">
+      <label class="one">The chart below is a combined veiw of both subcontracting and fully local contractor</label>
+     </fieldset>
+      <br/>
+  <button id="name" class="javascript"  value="total_value">Total Value <div>[total_value]</div></button>
+  <fieldset id="three">
+  <label class="two">Goods Labor Splite:Applay goods_percent to splite value into Goods and Labour[at the CIV level]</label>
+  </fieldset>
+  <button id="Goods" class="javascript" value="including_profit_and_OGA">Total Goods[including profit and OGA]<div>[total_goods]</div></button ><span><button id="TL" class="javascript" value="includes profit_and_OGI">Total Labor[includes profit and OGI]<div>[total_labor]</div></button></span>
+  
+  <fieldset id="four">
+ <leble class="three">open for Local competation : Applay open_goods and open_labour via estimate and range(CIV level)</leble>   
+  </fieldset>
+ 
+ <button id="TG" class="javascript" value="including_profit_and_OGA">Total Goodes[including profit and OGA]<div>[open_goods]</div></button><span><button id="OG" class="javascript" value="non_open_goods"> Open Goods<div>[non_open_goods]</div></button></span></button><span><button id="OL" class="javascript" value="includes_profit_and_OGA">Open Labour[includes profit and OGA]<div>[open_labor]</div></button></span><span><button id="Non1" class="javascript" value="non_open_labors">Non Open Labor<div>[non_open_labors]</div></button></span>
+ 
+ <fieldset id="five">
+ <label class="four">split based on Awarding Type:Fully Local Awardings are those won by Fully local firms.subcontratable Awards are those won by atier 1 or Fully foreign firms("prime" contractors).</label>
+ </fieldset>
+ 
+ <button id="FLG" class="javascript" class="javascript" value="fully_local_goods">Fully Local Goodes<div>[fully_local_goods]</div></button><span><button id="PAG" class="javascript" value="prime_awarded_goods"> Prime Awarded Goods(subcontratable)<div>[prime_awarded_goods]</div></button></span><span><button id="NOG" class="javascript" value="non_open_goods">Non Open Goods<div>[non_open_goods]</div></button></span><span><button id="FLL" class="javascript" value="fully_local_labor">Fully Local Labor<div>[fully_local_labor]</div></button></span><span><button id="PAL" class="javascript" value="prime_awarded_goods">prime Awarded Labor(subcontratable)<div>[prime_awarded_goods]</div></button></span><span><button id="Non1" class="javascript" value="non_open_labors">Non Open Labor<div>[non_open_labors]</div></button></span>
+ 
+ <fieldset id="six">
+ <label class="five">prime takes profit</label>
+ </fieldset>
+ <button id="FLG" class="javascript" value="fully_local_goods">Fully Local Goods</button><span><button id="sGPR" class="javascript" value="subcontratable Goods after profit removed">subcontratable Goods after profit removed</button></span><span><button id="PGP" class="javascript" value="prime Goods profit">prime Goods profit</button></span><span><button id="NOG" class="javascript" value="Non Open Goods">Non Open Goods</button></span><span><button id="FLL" class="javascript" value="Fully Local Labor">Fully Local Labor</button></span><span><button id="sLPR" class="javascript" value="subcontratable Labor after profit removed">subcontratable Labor after profit removed</button></span><span><button id="PLP" class="javascript" value="prime Labor profit">prime Labor profit</button></span><span><button id="Non2" class="javascript" value="Non Open Labor">Non Open Labor</button></span>
+<fieldset id="seven">
+ <label class="six">prime takes OGA</label>
+</fieldset>
+<button id="FLG" class="javascript" value="FullyL_ocal_Goods">Fully Local Goods</button><span><button id="sGPOR" class="javascript" value="subcontratable_Goods_after_profit_and_OGA_removed">subcontratable Goods after profit and OGA removed</button></span><span><button id="PGO" class="javascript" value="prime_Goods_OGA*">prime Goods OGA*</button></span><span><button id="PGP" class="javascript" value="prime_Goods_profit">prime Goods profit</button></span><span><button id="NOG" class="javascript" value="Non_Open_Goods">Non Open Goods</button></span><span><button id="FLL" class="javascript" value="Fully_Local_Labor">Fully Local Labor</button></span><span><button id="sALPOR" class="javascript" value="subcontratable_Awardings_Labor_after_profit_and_OGA_removed">subcontratable Awardings-Labor after profit and OGA removed</button></span><span><button id="PLO" class="javascript" value="prime_labor_OGA*">prime labor OGA*</button></span><span><button id="PLP" class="javascript" value="prime_Labor_profit">prime Labor profit</button></span><span><button id="Non2" class="javascript" value="Non_Open_Labor">Non Open Labor</button></span>
+<fieldset id="eight">
+<label class="seven">prime contractor Keeps some work and subcontracts some</label>
+</fieldset>
+<button id="FLG" class="javascript" value="Fully_Local_Goods">Fully Local Goods</button><span><button id="sG" class="javascript" value="subcontracted_Goods">subcontracted Goods</button></span><span><button id="PGM" class="javascript" value="prime_Goods_Mixed">prime Goods Mixed</button></span><span><button id="PGO" class="javascript" value="prime_Goods_OGA*">prime Goods OGA*</button></span><span><button id="PGP" class="javascript" value="prime_Goods_profit">prime Goods profit</button></span><span><button id="NOG" class="javascript" value="Non_Open_Goods">Non Open Goods</button></span><span><button id="FLL" class="javascript" value="Fully_Local_Labor">Fully Local Labor</button></span><span><button id="sL" class="javascript" value="subcontracted_Labor">subcontracted Labor</button></span><span><button id="PLSM" class="javascript" value="prime_Labor_Salary_Mixed">prime Labor Salary Mixed</button></span><span><button id="PLO" class="javascript" value="prime_labor_OGA*">prime labor OGA*</button></span><span><button id="PLP" class="javascript" value="prime_Labor_profit">prime Labor profit</button></span><span><button id="Non2" class="javascript" value="Non_Open_Labor">Non Open Labor</button></span>
+<fieldset id="nine">
+<label class="eight">Domestic vs Importe and Local vs Expat:split Goods using importe_(based on CAM/Supplier input data)and split Labor by skill distribuition and salaries(based on CAM/Supplier input data) </label>
+</fieldset>
+<button id="FLG" class="javascript" value="fully_local_goods">Fully Local Goods<div>[fully_local_goods]</div></button><span><button id="PsG" class="javascript" value="prime_subcontracted_goods">prime subcontracted Goods<div>[prime_subcontracted_goods]</div></button></span><span><button id="PGD" class="javascript" value="prime_goods_domestic">prime Goods Domestic<div>[prime_goods_domestic]</div></button></span><span><button id="PGI" class="javascript" value="prime_goods_import">Prime Goods Importe<div>[prime_goods_import]</div></button></span><span><button id="PGO" class="javascript" value="prime_goods_oga">Prime Goods OGA*<div>[prime_goods_oga]</div></button></span><span><button id="NOG" class="javascript" value="non_open_goods">Non Open Goods<div>[non_open_goods]</div></button></span><span><button id="FLL" class="javascript" value="fully_local_labor">Fully Local Labor<div>[fully_local_labor]</div></button></span><span><button id="PLSL" class="javascript" value="prime_labor_salary_local">Prime Labor Salary Local<div>[prime_labor_salary_local]</div></button></span><span><button id="PLSE" class="javascript" value="prime_labor_salary_expat">Prime Labor Salary Expat<div>[prime_labor_salary_expat]</div></button></span><span><button id="PLO" class="javascript" value="prime_labor_oga">Prime Labor OGA*<div>[prime_labor_oga]</div></button></span><span><button id="PLP" class="javascript" value="prime_labor_profit">Prime Labor Profit<div>[prime_labor_profit]</div></button></span><span><button id="Non1" class="javascript" value="non_open_labor">Non Open Labor<div>[non_open_labor]</div></button></span>
+<fieldset id="ten">
+<label class="nine">Local Awarding Focus:We now focus on the value that is awarded to local firms,either via a full local contract or a subcontract</label>
+</fieldset>
+<button id="LAG" class="javascript" value="locally_awarded_goods">Locally Awarded Goods<div>[locally_awarded_goods]</div><div>Fully Local Goods and Prime subcontracted Goods</div></button><span><button id="PGC" class="javascript" value="Prime_Goods_Combined">Prime Goods Combined</button></span><span><button id="NOG" class="javascript" value="Non_Open_Goods">Non Open Goods</button></span><span><button id="LAL" class="javascript" value="locally_awarded_labor">Locally Awarded Labor<div>[locally_awarded_labor]</div><div>Fully Local Labor and Prime subcontracted Labor</div></button></span><span><button id="PCL" class="javascript" value="Prime_Combined_Labor">Prime Combined Labor</button></span><span><button id="Non1" class="javascript" value="Non_Open_Labor">Non Open Labor</button></span>
+  <fieldset id="eleven">
+<label class="ten">Profit Margin:Applay profit_margin to both Goods and Labor(based on CMA/Supplier input data)</label>
+  </fieldset>
+<button id="LAGWO" class="javascript" value="Locally_Awarded_Goods_with_OGA">Locally Awarded Goods with OGA</button><span><button id="LAGP" class="javascript" value="Locally_Awarded_Goods_Profit">Locally Awarded Goods Profit</button></span><span><button id="PGC" class="javascript" value="Prime_Goods_Combined">Prime Goods Combined</button></span><span><button id="NOG" class="javascript" value="Non_Open_Goods">Non Open Goods</button></span><span><button id="LALWO" class="javascript" value="Locally_Awarded_Labor_with_OGA">Locally Awarded Labor with OGA</button></span><span><button id="LALP" class="javascript" value="Locally_Awarded_Labor_Profit">Locally Awarded Labor Profit</button></span><span><button id="PCL" class="javascript" value="Prime Combined Labor">Prime Combined Labor</button></span><span><button id="Non1" class="javascript" value="Non Open Labor">Non Open Labor</button></span>
+<fieldset id="twelve">
+<label class="eleven">OGA:Apply OGA to both Goods and Labor(based on CMA/Supplier input data)</label>
+</fieldset>
+<button id="LAGM" class="javascript" value="Locally_Awarded_Goods_Mixed">Locally Awarded Goods Mixed</button><span><button id="LAGO" class="javascript" value="Locally_Awarded_Goods_OGA">Locally Awarded Goods OGA</button></span><span><button id="LAGP" class="javascript" value="Locally_Awarded_Goods_Profit">Locally Awarded Goods Profit</button></span><span><button id="PGC" class="javascript" value="Prime_Goods_Combined">Prime Goods Combined</button></span><span><button id="NOG" class="javascript" value="Non_Open_Goods">Non Open Goods</button></span><span><button id="LALSM" class="javascript" value="locally_Awarded_Labor Salary_Mixed">locally Awarded Labor Salary Mixed</button></span><span><button id="LALO" class="javascript" value="Locally_Awarded_Labor_with_OGA">Locally Awarded Labor with OGA</button></span><span><button id="LALP" class="javascript" value="Locally_Awarded_Labor_Profit">Locally Awarded Labor Profit</button></span><span><button id="PCL" class="javascript" value="Prime_Combined_Labor">Prime Combined Labor</button></span><span><button id="Non1" class="javascript" value="Non_Open_Labor">Non Open Labor</button></span>
+<fieldset id="t13">
+<label class="twelve">Domestic vs Import and Local vs Exapat:Split Goods using importe_goods(at CIV level) and Split Labor by skill distribution and salaries(based on CMA/Supplier input data)</label>
+</fieldset>
+<button id="LAGD" class="javascript" value="locally_awarded_goods_Domestic">Locally Awarded Goods Domestic<div>[locally_awarded_goods_Domestic]</div></button><span><button id="LAGI" class="javascript" value="locally_awarded_goods_import">Locally Awarded Goods Import<div>[locally_awarded_goods_import]</div></button></span><span><button id="LAGO" class="javascript" value="locally_awarded_goods_oga">Locally Awarded Goods OGA<div>[locally_awarded_goods_oga]</div></button></span><span><button id="LAGP" class="javascript" value="locally_awarded_goods_profit">Locally Awarded Goods Profit<div>[locally_awarded_goods_profit]</div></button></span><span><button id="PGC" class="javascript" value="Prime_Goods_Combined">Prime Goods Combined</button></span><span><button id="NOG" class="javascript" value="Non_Open_Goods">Non Open Goods</button></span><span><button id="LALSL" class="javascript" value="locally_awarded_labor_salary_local">Locally Awarded Labor Salary Local<div>[locally_awarded_labor_salary_local]</div></button></span><SPAN><button id="LALSE" class="javascript" value="locally_awarded_labor_salary_expat">Locally Awarded Labor Salary Expat<div>[locally_awarded_labor_salary_expat]</div></button></SPAN><span><button id="LALO" class="javascript" value="locally_awarded_labor_oga">Locally Awarded Labor OGA<div>[locally_awarded_labor_oga]</div></button></span><span><button id="LALP" class="javascript" value="locally_awarded_labor_profit">Locally Awarded Labor Profit<div>[locally_awarded_labor_profit]</div></button></span><span><button id="PCL" class="javascript" value="Prime_Combined_Labor">Prime Combined Labor</button></span><span><button id="Non1" class="javascript" value="Non_Open_Labor">Non Open Labor</button></span>
+  </container>
+</body>
+<script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
+<script src="./js/main.js"></script>
+</html>

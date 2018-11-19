@@ -1,0 +1,492 @@
+#one{
+  background-color: darkblue;
+  height: 15px;
+  
+}
+#one #one_1{
+  position: absolute;
+  left: 550px;
+  color: white;
+}
+#two{
+  background-color: yellow;
+  height: 20px;
+}
+.one{
+  position: absolute;
+  color: black;
+}
+#name{
+  background-color: blue;
+  padding: 8px 585px ;
+  
+}
+#name:hover{
+  font-size: 15px;
+ }
+#three{
+  background-color: yellow;
+  height: 20px;
+}
+.two{
+  position: absolute;
+  color: black;
+}
+#Goods{
+  background-color: lightblue;
+  padding:2px 300px;
+  font-size: 2px;
+  
+}
+#Goods:hover{
+font-size: 30px;
+}
+#TL{
+  background-color:lightblue;
+  padding:2px 142px;
+  font-size: 2px
+  }#TL:hover{
+    font-size: 15px;
+   }
+  
+  #TG{
+    background-color:lightblue;
+    padding:2px 70px;
+    font-size: 2PX;
+  }#TG:hover{
+    font-size: 15px;
+   }
+#OL{
+  background-color:lightblue;
+  padding:2PX 80PX;
+  font-size: 2PX;
+}#OL:hover{
+  font-size: 15px;
+ }
+#four{
+  background-color: yellow;
+  height: 20px;
+}
+.three{
+  position: absolute;
+  color: black;
+}
+#OG{
+  background-color:lightblue;
+  padding:2px 155px;
+  font-size: 2px;
+  
+  }
+  #OG:hover{
+    font-size: 20px;
+   }
+  #NOG{
+    background-color:lightskyblue;
+    padding:2px 155px;
+    font-size: 2PX;
+    
+  }
+  #NOG:hover{
+    font-size: 20px;
+   }
+  #Non1 {
+    background-color:cyan;
+    padding:2px 35px ;
+    font-size: 2px;
+  
+  }#Non1:hover{
+    font-size: 15px;
+   }
+  #Non2 {
+    background-color:cyan;
+    padding: 2pX 35px ;
+    font-size: 2px;
+  }
+  #Non2:hover{
+    font-size: 20px;
+   }
+  #five{
+    background-color: yellow;
+    height: 20px;
+  }
+  .four{
+    position: absolute;
+    color: black;
+  }
+  #FLG{
+    background-color:lightblue;
+    padding:2PX 7PX ;
+  font-size: 2PX;
+  }
+  #FLG:hover{
+    font-size: 20px;
+   }
+  #sGPR{
+    background-color:lightcoral;
+    padding: 2px 82px;
+  font-size: 2px;
+  }
+  #sGPR:hover{
+    font-size: 20px;
+   }
+  #PAG{
+    background-color:lightblue;
+    padding:2px 99PX ;
+  font-size: 2px;
+  }
+  #PAG:hover{
+    font-size: 20px;
+   }
+  #FLL{
+    background-color:lightblue;
+    padding:2px 7PX ;
+  font-size: 2px;
+  }
+  #FLL:hover{
+    font-size: 15px;
+   }
+  #PAL{
+    background-color:lightblue;
+    padding: 2PX 85PX;
+  font-size: 2px;
+  }#PAL:hover{
+    font-size: 20px;
+   }
+  #sLPR{
+    background-color:lightblue;
+    padding: 2px 9Opx;
+    font-size: 2px;
+  }#sLPR:hover{
+    font-size: 20px;
+   }
+  #PLP{
+    background-color:pink;
+    padding: 2px 5px;
+    font-size: 2px;
+  
+  }#PLP:hover{
+    font-size: 20px;
+   }
+  #six{
+    background-color: yellow;
+    height: 20px;
+  }
+  .five{
+    position: absolute;
+    left: 550px;
+    color: black;
+  }
+  #sG{
+    background-color:lightblue;
+    padding: 2px 27px;
+    font-size: 2px;
+  
+  }#sG:hover{
+    font-size: 15px;
+   }
+  #sGPOR{
+    background-color:lightcoral;
+    padding: 2px 50px;
+    font-size: 2px;
+  
+  }#sGPOR:hover{
+    font-size: 20px;
+   }
+  #PGO{
+    background-color:lightgreen;
+    padding: 2px 7px;
+    font-size: 2px;
+  
+  }#PGO:hover{
+    font-size: 15px;
+   }
+  #sALPOR{
+    background-color:lightcoral;
+    padding: 2px 40px;
+    font-size: 2px;
+  
+  }#sALPOR:hover{
+    font-size: 15px;
+   }
+  #PLO{
+    background-color:lightgreen;
+    padding: 2px 7px;
+    font-size: 2px;
+  }#PLO:hover{
+    font-size: 20px;
+   }
+  #PLSM{
+    background-color:lightcoral;
+    padding: 2px 53px;
+    font-size: 2px;
+  }
+  #PLSM:hover{
+    font-size: 15px;
+   }
+  #sL{
+    background-color:lightblue;
+    padding: 2px 52px;
+    font-size: 2px;
+  
+  }#sL:hover{
+    font-size: 15px;
+   }
+  #PGM{
+    background-color:lightcoral;
+    padding: 2px 27px;
+    font-size: 2px;
+  
+  }
+  #PGM:hover{
+    font-size: 15px;
+   }
+  #seven{
+    background-color: yellow;
+    height: 15px;
+  }
+  .six{
+    position: absolute;
+    left: 400px; 
+    color: black;
+  }
+  #eight{
+    background-color: yellow;
+    height: 20px;
+  }
+  .seven{
+    position: absolute;
+    left: 400px; 
+    color: black;
+    
+  }
+  #nine{
+    background-color: yellow;
+    height: 15px;
+  }
+  .eight{
+    position: absolute; 
+    color: black;
+  }
+  #ten{
+    background-color: yellow;
+    height: 15px;
+  }
+  .nine{
+    position: absolute;
+    left: 300px; 
+    color: black;
+  }
+  #eleven{
+    background-color: yellow;
+    height: 20px;
+  }
+  .ten{
+    position: absolute;
+    left: 400px;  
+    color: black;
+  }
+  #twelve{
+    background-color: yellow;
+    height: 20px;
+  }
+  .elven{
+    position: absolute;
+    left: 400px;
+    color: black;
+  }
+  #t13{
+    background-color: yellow;
+    height: 20px;
+  }
+  #t13:hover{
+    font-size: 15px;
+   }
+  .twelve{
+    position: absolute;
+    color: black;
+  }
+  #PsG{
+    background-color:lightblue;
+    padding: 2px 22px;
+  font-size: 2px;
+  }
+  #PsG:hover{
+    font-size: 15px;
+   }
+  #PGD{
+    background-color:green;
+    padding: 2px 25px;
+    font-size: 2px;;
+  }
+  #PGD:hover{
+    font-size: 15px;
+   }
+  #PGI{
+    background-color:pink;
+    padding: 2px 5px;
+  font-size: 2px;;
+  }
+  #PGI:hover{
+    font-size: 15px;
+   }
+  #PLSL{
+    background-color:green;
+    padding: 2px 50px;
+  font-size: 2px;
+  }
+  #PLSL:hover{
+    font-size: 15px;
+   }
+  #PLSE{
+    background-color:pink;
+    padding: 2px 49px;
+    font-size: 2px;
+  }#PLSE:hover{
+    font-size: 15px;
+   } 
+  #LAG{
+    background-color:blue;
+    padding: 2px 83px;
+    font-size: 2px;
+  }
+  #LAG:hover{
+    font-size: 15px;
+   }
+  #PGC{
+    background-color:slategrey;
+    padding: 2px 15px;
+    font-size: 2px;
+  }
+  #PGC:hover{
+    font-size: 15px;
+   }
+  #LAL{
+    background-color:lightblue;
+    padding: 2px 127px;
+    font-size: 2px;
+  } #LAL:hover{
+    font-size: 15px;
+   }
+  #PCL{
+    background-color:slategrey;
+    padding: 2px 15px;
+    font-size: 2px;
+  }
+  #PCL:hover{
+    font-size: 15px;
+   }
+  #LAGWO{
+    background-color:blue;
+    padding: 2px 60px;
+    font-size: 2px;
+  }
+  #LAGWO:hover{
+    font-size: 15px;
+   }
+  #LAGO{
+    background-color:blue;
+    padding: 2px 2px;
+    font-size: 2px;
+  }
+  #LAGO:hover{
+    font-size: 15px;
+   }
+  #LAGP{
+    background-color:green;
+    padding: 2px 15px;
+    font-size: 2px;
+  }
+  #LAGP:hover{
+    font-size: 15px;
+   }
+  #LALWO{
+    background-color:lightblue;
+    padding: 2px 80px;
+    font-size: 2px;
+  }
+  #LALWO:hover{
+    font-size: 15px;
+   }
+  #LALP{
+    background-color:green;
+    padding: 2px 40px;
+    font-size: 2px;
+  }
+  #LALP:hover{
+    font-size: 15px;
+   }
+  #LAGM{
+    background-color:blue;
+    padding: 2px 45px;
+    font-size: 2px;
+  }
+  #LAGM:hover{
+    font-size: 15px;
+   }
+  #LALSM{
+    background-color:lightblue;
+    padding: 2px 46px;
+    font-size:2Px;
+  }
+  #LALSM:hover{
+    font-size: 15px;
+   }
+  #LAGD{
+    background-color:green;
+    padding: 2px 12px;
+    font-size: 2px;
+  }
+  #LAGD:hover{
+    font-size: 15px;
+   }
+  #LAGI{
+    background-color:lightpink;
+    padding: 2px 12px;
+    font-size: 2px;
+  }
+  #LAGI:hover{
+    font-size: 15px;
+   }
+  #LALSL{
+    background-color:green;
+    padding: 2px 15px;
+    font-size: 2px;
+  }
+  #LALSL:hover{
+    font-size: 15px;
+   }
+  #LALSE{
+    background-color:lightpink;
+    padding: 2px 15px;
+    font-size: 2px;
+  }
+  #LALSE:hover{
+    font-size: 15px;
+   }
+  #LALO{
+    background-color:green;
+    padding: 2px 15px;
+    font-size: 2px;
+  }
+  #LALO:hover{
+    font-size: 15px;
+   }
+  #PGP{
+    background-color:pink;
+    padding: 2px 5px;
+    font-size: 2px;
+  }
+  #PGP:hover{
+    font-size: 15px;
+   }
+  #PGO{
+    background-color:lightgreen;
+    padding: 2px 15px;
+    font-size: 2px;
+  }
+  #PGO:hover{
+    font-size: 15px;
+   }
+  #A{
+    width: 585PX;
+  }

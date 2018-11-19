@@ -1,0 +1,655 @@
+#one{
+  background-color: darkblue;
+  height: 15px;
+  width: 100%;
+}
+.one_1{
+  position: absolute;
+  left: 550px;
+  color: white;
+}
+#two{
+  background-color: yellow;
+  height: 20px;
+}
+.one{
+  position: absolute;
+  left: 400px;
+  color: black;
+}
+#name{
+  background-color: blue;
+  width: 100%;
+  height: 50px;
+}
+#three{
+  background-color: yellow;
+  height: 20px;
+}
+.two{
+  position: absolute;
+  left: 400px;
+  color: black;
+}
+#TG{
+  background-color: lightblue;
+  width: 60%;
+  height: 50px;
+}
+#TG:hover{
+  font-size: 15px;
+}
+#TL{
+  background-color:lightblue;
+  width: 40%;
+  height: 50px;
+  
+}
+#TL:hover{
+  font-size: 15px;
+}
+#OL{
+  background-color:lightblue;
+  width: 25%;
+  height: 50px;
+  font-size: 3.6%;
+}
+#OL:hover{
+  font-size: 15px;
+}
+ #four{
+  background-color: yellow;
+  height: 20px;
+}
+.three{
+  position: absolute;
+  left: 400px;
+  color: black;
+}
+#OG{
+  background-color:lightblue;
+  width: 25%;
+  height: 50px;
+  font-size: 2%;
+  }
+  #OG:hover{
+    font-size: 15px;
+  }
+  #NOG{
+    background-color:lightskyblue;
+    width: 20%;
+    height: 50px; 
+  }
+  #NOG:hover{
+    font-size: 15px;
+  }
+  #NOG2{
+    background-color:whitesmoke;
+    width: 30%;
+    height: 50px; 
+  }
+  #NOG2:hover{
+    font-size: 15px;
+  }
+  #NOL1 {
+    background-color:cyan;
+    width: 5%;
+    height:50px;
+    width:10%;
+  }
+  #NOL1:hover{
+    font-size: 15px;
+  }
+  #NOL {
+    background-color:indigo;
+    width: 15%;
+    height:50px;
+    width:10%;
+  }
+  #NOL:hover{
+    font-size: 15px;
+  }
+  #SL{
+    background-color:violet;
+    width: 10%;
+    height: 50px;
+    font-size: 3.4%;
+  }
+  #SL:hover{
+    font-size: 15px;
+  }
+  #Five{
+    background-color: yellow;
+    height: 20px;
+  }
+  .four{
+    position: relative;
+    color: black;
+    left: 550px
+  }
+  #FLG{
+    background-color:palevioletred;
+    width: 10%;
+    height: 50px;
+    font-size: 0.6%;
+  }
+  #FLG:hover{
+    font-size: 15px;
+  }
+  #sGPR{
+    background-color:lightcoral;
+    width: 10%;
+    height: 50px;
+    font-size: 1.4%;
+  }
+  #sGPR:hover{
+    font-size: 15px;
+  }
+  #PAG{
+    background-color:lightblue;
+    width: 10%;
+    height: 50px;
+    font-size: 1.5%;
+  }
+  #PAG:hover{
+    font-size: 15px;
+  }
+  #FLL{
+    background-color:rgb(139, 134, 139);
+    width: 10%;
+    height: 50px;
+    font-size: 3.4%;
+  }
+  #FLL:hover{
+    font-size: 15px;
+  }
+  #PAL{
+    background-color:lightblue;
+    width: 15%;
+    height: 50px;
+    font-size: 3.6%;
+  }
+  #PAL:hover{
+    font-size: 15px;
+  }
+  #PGF{
+    background-color:pink;
+    width: 5%;
+    height: 50px;
+    font-size: 0.08%;
+  }
+  #PGF:hover{
+    font-size: 15px;
+  }
+  #sLPR{
+    background-color:lightblue;
+    width: 10%;
+    height: 50px;
+    font-size: 3.4%;
+  }
+  #sLPR:hover{
+    font-size: 15px;
+  }
+  #PLP{
+    background-color:rgb(145, 137, 138);
+    width: 5%;
+    height: 50px;
+    font-size: 0.3%;
+  }
+  #PLP:hover{
+    font-size: 15px;
+  }
+  #six{
+    background-color: yellow;
+    height: 20px;
+  }
+  .five{
+    position: relative;
+    left: 550px;
+    color: black;
+  }
+  #SG{
+    background-color:lightblue;
+    width: 3%;
+    height: 50px;
+    font-size: 0.6%;
+  }
+  #SG:hover{
+    font-size: 15px;
+  }
+  #sGPOR{
+    background-color:lightcoral;
+    width: 7%;
+    height: 50px;
+    font-size: 1.4%;
+  }
+  #sGPOR:hover{
+    font-size: 15px;
+  }
+  #PGO{
+    background-color:gray;
+    width: 3%;
+    height: 50px;
+    font-size: 0.1%;
+  }
+  #PGO:hover{
+    font-size: 15px;
+  }
+  #sALPOR{
+    background-color:lightcoral;
+    width: 7%;
+    height: 50px;
+    font-size: 3.3%;
+  }
+  #sALPOR:hover{
+    font-size: 15px;
+  }
+  #PLO{
+    background-color:grey;
+    width: 3%;
+    height: 50px;
+    font-size: 0.2%;
+  }
+  #PLO:hover{
+    font-size: 15px;
+  }
+  #PLSM{
+    background-color:lightcoral;
+    width: 4%;
+    height: 50px;
+    font-size: 1.6%;
+  }
+  #PLSM:hover{
+    font-size: 15px;
+  }
+  #PsL{
+    background-color:gray;
+    width: 3%;
+    height: 50px;
+    font-size: 1.5%;
+  }
+  #PsL:hover{
+    font-size: 15px;
+  }
+#PGM{
+    background-color:lightcoral;
+    width: 4%;
+    height: 50px;
+    font-size: 0.7%;
+  }
+#PGM:hover{
+    font-size: 15px;
+  }
+#PGOL{
+  background-color: lightcoral;
+  width: 4%;
+  height: 50px;
+  font-size: 0.7%;
+  }
+#PGOL:hover{
+    font-size: 15px;
+  }
+#PGOF{
+    background-color: lightcoral;
+    width: 4%;
+    height: 50px;
+    font-size: 0.7%;
+}
+#PGOF:hover{
+  font-size: 15px;
+}
+#PLOL{
+  background-color: royalblue;
+  width: 4%;
+  height: 50px;
+  font-size: 0.7%;}
+  #PLOL:hover{
+    font-size: 15px;
+  }
+  #PLOF{
+    background-color: royalblue;
+    width: 4%;
+    height: 50px;
+    font-size: 0.7%;}
+  #PLOF:hover{
+      font-size: 15px;
+    }
+  #seven{
+    background-color: yellow;
+    height: 20px;
+  }
+  .six{
+    position: relative;
+    color: black;
+    left: 400px;
+  }
+  #eight{
+    background-color: yellow;
+    height: 20px;
+  }
+  .seven{
+    position: relative;
+    color: black;
+    left: 40px;
+  }
+  #nine{
+    background-color: yellow;
+    height: 20px;
+  }
+  .eight{
+    position: relative;
+    color: black;
+    left: 100px;
+  }
+  #ten{
+    background-color: yellow;
+    height: 30px;
+  }
+  .nine{
+    position: absolute;
+    color: black;
+  }
+  #eleven{
+    background-color: yellow;
+    height: 20px;
+  }
+  .ten{
+    position: absolute;
+    color: black;
+  }
+  #twelve{
+    background-color: yellow;
+    height: 20px;
+  }
+  .eleven{
+    position: absolute;
+    left: 350px;
+    color: black;
+  }
+  #thirteen{
+    background-color: yellow;
+    height: 20px;
+  }
+  #t13{
+    background-color: yellow;
+    height: 20px;
+  }
+  .twelve{
+    position: absolute;
+    color: black;
+  }
+  #PsG{
+    background-color:lightblue;
+    width: 3%;
+    height: 50px;
+    font-size: 0.6%;
+  }
+  #PsG:hover{
+    font-size: 15px;
+  }
+  #PGD{
+    background-color:green;
+    width: 2%;
+    height: 50px;
+    font-size: 0.8%;
+  }
+  #PGD:hover{
+    font-size: 15px;
+  }
+  #PGI{
+    background-color:Gray;
+    width: 2%;
+    height: 50px;
+    font-size: 0.6%;
+  }
+  #PGI:hover{
+    font-size: 15px;
+  }
+  #PLSL{
+    background-color:Gray;
+    width: 2%;
+    height: 50px;
+    font-size: 0.2%;
+  }
+  #PLSL:hover{
+    font-size: 15px;
+  }
+  #PLSE{
+    background-color:gray;
+    width: 2%;
+    height: 50px;
+    font-size: 1.4%;
+  }
+  #PLSE:hover{
+    font-size: 15px;
+  } 
+  #LAG{
+    background-color:blue;
+    width: 13%;
+    height: 50px;
+    font-size: 1.4%;
+  }
+  #LAG:hover{
+    font-size: 15px;
+  }
+  #PGC{
+    background-color:slategrey;
+    width: 10%;
+    height: 50px;
+    font-size: 1%;
+  }
+  #PGC:hover{
+    font-size: 15px;
+  }
+  #LAL{
+    background-color:lightblue;
+    width: 13%;
+    height: 50px;
+    font-size: 5%;
+  } 
+  #LAL:hover{
+    font-size: 15px;
+  }
+  #PCL{
+    background-color:slategrey;
+    width: 12%;
+    height: 50px;
+    font-size: 2.2%;
+  }
+  #PCL:hover{
+    font-size: 15px;
+  }
+  #LAGWO{
+    background-color:blue;
+    width: 13%;
+    height: 50px;
+    font-size: 1.2%;
+  }
+  #LAGWO:hover{
+    font-size: 15px;
+  }
+  #LAGO{
+    background-color:blue;
+    width: 13%;
+    height: 50px;
+    font-size: 1.2%;
+  }
+  #LAGO:hover{
+    font-size: 15px;
+  }
+  #LAGP{
+    background-color:green;
+    width:1.5%;
+    height: 50px;
+    font-size: 0.8%;
+  }
+  #LAGP:hover{
+    font-size: 15px;
+  }
+  #LALWO{
+    background-color:lightblue;
+    width: 12%;
+    height: 50px;
+    font-size: 4.6%;
+  }
+  #LALWO:hover{
+    font-size: 15px;
+  }
+  #LALP{
+    background-color:green;
+    width: 1%;
+    height: 50px;
+    font-size: 0.3%;
+  }
+  #LALP:hover{
+    font-size: 20px;
+  }
+  #LAGM{
+    background-color:blue;
+    width: 10%;
+    height: 50px;
+    font-size: 0.8%;
+  }
+  #LAGM:hover{
+    font-size: 15px;
+  }
+  #LALSM{
+    background-color:lightblue;
+    width:11%;
+    height: 50px;
+    font-size: 3%;
+  }
+  #LALSM:hover{
+    font-size: 20px;
+  }
+  #LAGD{
+    background-color:green;
+    width: 5%;
+    height: 50px;
+    font-size: 0.1%;
+  }
+  #LAGD:hover{
+    font-size: 15px;
+  }
+  #LAGI{
+    background-color:lightpink;
+    width: 5%;
+    height: 50px;
+    font-size: 0.6%;
+  }
+  #LAGI:hover{
+    font-size: 15px;
+  }
+  #LALSL{
+    background-color:green;
+    width: 5.5%;
+    height: 50px;
+    font-size: 0.6%;
+  }
+  #LALSL:hover{
+    font-size: 15px;
+  }
+  #LALSE{
+    background-color:lightpink;
+    width: 5.5%;
+    height: 50px;
+    font-size: 2.2%;
+  }
+  #LALSE:hover{
+    font-size: 15px;
+  }
+  #LALO{
+    background-color:green;
+    width: 1%;
+    height: 50px;
+    font-size: 0.2%;
+  }
+  #LALO:hover{
+    font-size: 15px;
+  }
+  #PGP{
+    background-color:pink;
+    width: 5%;
+    height: 50px;
+    font-size: 0.8%;
+  }
+  #PGP:hover{
+    font-size: 15px;
+  }
+  #PGO{
+    background-color:lightgreen;
+    width: 3%;
+    height: 50px;
+    font-size: 0.08%;
+  }
+  #PGO:hover{
+    font-size: 15px;
+  }
+  #FLGD{background-color:brown;
+    width: 4%;
+    height: 50px;
+    font-size: 0.08%;
+  }
+  #FLGD:hover{
+    font-size: 15px;
+  }
+  #FLGI{background-color:brown;
+    width: 4%;
+    height: 50px;
+    font-size: 0.08%;
+    top: 150px;
+  }
+  #FLGI:hover{
+    font-size: 15px;
+  }
+  #FLGO{background-color:brown;
+    width: 4%;
+    height: 50px;
+    font-size: 0.08%;
+  }
+  #FLGO:hover{
+    font-size: 15px;
+  }
+  #FLLGP{background-color:brown;
+    width: 4%;
+    height: 50px;
+    font-size: 0.08%;
+  }
+  #FLLGP:hover{
+    font-size: 15px;
+  }
+  #FLLSL{background-color:rgb(56, 145, 56);
+    width: 4%;
+    height: 50px;
+    font-size: 0.08%;
+  }
+  #FLLSL:hover{
+    font-size: 15px;
+  }
+  #FLLSE{background-color:rgb(56, 145, 56);
+    width: 4%;
+    height: 50px;
+    font-size: 0.08%;
+  }
+  #FLLSE:hover{
+    font-size: 15px;
+  }
+#FLLO{background-color:rgb(56, 145, 56);
+    width: 3%;
+    height: 50px;
+    font-size: 0.08%;
+  }
+  #FLLO:hover{
+    font-size: 15px;
+  }
+#FLLP{background-color:rgb(56, 145, 56);
+  width: 3%;
+  height: 50px;
+  font-size: 0.08%;
+}
+#FLLP:hover{
+  font-size: 15px;
+}
+  #A{
+    width: 100%;
+   } 
